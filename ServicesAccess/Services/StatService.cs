@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using CinemaManagement.Entities;
-using CinemaManagement.Data;
+using DataAccess.Data;
+using DataAccess.Entities;
 
 namespace CinemaManagement.Services
 {

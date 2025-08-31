@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using CinemaManagement.Data;
-using CinemaManagement.Entities;
+using DataAccess.Data;
+using DataAccess.Entities;
 using Microsoft.EntityFrameworkCore.Storage;
 
 
